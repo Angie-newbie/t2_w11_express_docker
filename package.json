@@ -1,0 +1,25 @@
+{
+  "name": "t2_w11_express_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angie-newbie/t2_w11_express_docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angie-newbie/t2_w11_express_docker/issues"
+  },
+  "homepage": "https://github.com/Angie-newbie/t2_w11_express_docker#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}
